@@ -58,8 +58,8 @@ logo = """ -----------------------------•◈•
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mBaba Shani
 \033[1;96mInstagram \033[1;93m: \033[1;babashani676
-\033[1;96mFacebook  \033[1;93m: \033[1; Baba shani
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Therana/zero
+\033[1;96mFacebook  \033[1;93m: \033[1;Baba shani
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Babashani676/Joker
 \033[1;91m======================================="""
 
 def tik():
@@ -83,7 +83,7 @@ print  """\033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mBaba Shani
 \033[1;96mInstagram \033[1;93m: \033[1;92babashani676
 \033[1;96mFacebook  \033[1;93m: \033[1;92m Baba Shani
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/Therana/zero
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/Babashani676/Joker
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
